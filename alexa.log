@@ -1,0 +1,48 @@
+2018-07-10 17:01:59,130 INFO  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+2018-07-10 17:01:59,153 INFO  * Restarting with stat
+2018-07-10 17:01:59,533 WARNING  * Debugger is active!
+2018-07-10 17:01:59,580 INFO  * Debugger PIN: 218-214-140
+2018-07-10 17:02:25,948 DEBUG Starting new HTTP connection (1): 192.168.10.97
+2018-07-10 17:02:26,091 DEBUG http://192.168.10.97:80 "POST /service/get_device HTTP/1.1" 200 None
+2018-07-10 17:02:26,134 DEBUG Starting new HTTP connection (1): 192.168.10.97
+2018-07-10 17:02:26,887 DEBUG http://192.168.10.97:80 "POST /service/device HTTP/1.1" 200 None
+2018-07-10 17:02:26,959 INFO 127.0.0.1 - - [10/Jul/2018 17:02:26] "[37mPOST /jochebed HTTP/1.1[0m" 200 -
+2018-07-10 17:03:42,484 INFO  * Detected change in '/Users/apple/Desktop/Mahesh/Flask/AlexaHA1.0.py', reloading
+2018-07-10 17:03:42,530 INFO  * Restarting with stat
+2018-07-10 17:03:45,573 WARNING  * Debugger is active!
+2018-07-10 17:03:45,829 INFO  * Debugger PIN: 218-214-140
+2018-07-10 17:03:55,385 INFO  * Detected change in '/Users/apple/Desktop/Mahesh/Flask/AlexaHA1.0.py', reloading
+2018-07-10 17:03:55,423 INFO  * Restarting with stat
+2018-07-10 17:03:55,795 WARNING  * Debugger is active!
+2018-07-10 17:03:55,816 INFO  * Debugger PIN: 218-214-140
+2018-07-10 17:04:00,648 INFO  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+2018-07-10 17:04:00,651 INFO  * Restarting with stat
+2018-07-10 17:04:01,035 WARNING  * Debugger is active!
+2018-07-10 17:04:01,055 INFO  * Debugger PIN: 218-214-140
+2018-07-10 17:04:10,106 INFO 127.0.0.1 - - [10/Jul/2018 17:04:10] "[37mPOST /jochebed HTTP/1.1[0m" 200 -
+2018-07-10 17:04:53,100 INFO  * Detected change in '/Users/apple/Desktop/Mahesh/Flask/AlexaHA1.0.py', reloading
+2018-07-10 17:04:53,141 INFO  * Restarting with stat
+2018-07-10 17:04:54,076 WARNING  * Debugger is active!
+2018-07-10 17:04:54,118 INFO  * Debugger PIN: 218-214-140
+2018-07-10 17:05:06,360 INFO  * Detected change in '/Users/apple/Desktop/Mahesh/Flask/AlexaHA1.0.py', reloading
+2018-07-10 17:05:06,396 INFO  * Restarting with stat
+2018-07-10 17:05:33,725 WARNING  * Debugger is active!
+2018-07-10 17:09:16,900 WARNING  * Debugger is active!
+2018-07-10 17:09:17,026 INFO  * Debugger PIN: 218-214-140
+2018-07-10 17:09:26,331 INFO  * Detected change in '/Users/apple/Desktop/Mahesh/Flask/AlexaHA1.0.py', reloading
+2018-07-10 17:09:26,806 WARNING  * Debugger is active!
+2018-07-10 17:09:26,826 INFO  * Debugger PIN: 218-214-140
+2018-07-10 17:09:46,206 INFO  * Detected change in '/Users/apple/Desktop/Mahesh/Flask/AlexaHA1.0.py', reloading
+2018-07-10 17:09:46,613 WARNING  * Debugger is active!
+2018-07-10 17:09:46,634 INFO  * Debugger PIN: 218-214-140
+2018-07-10 17:10:02,673 DEBUG Starting new HTTP connection (1): 192.168.10.97
+2018-07-10 17:10:02,897 DEBUG http://192.168.10.97:80 "POST /service/get_device HTTP/1.1" 200 None
+2018-07-10 17:10:03,007 DEBUG Starting new HTTP connection (1): 192.168.10.97
+2018-07-10 17:10:03,947 DEBUG http://192.168.10.97:80 "POST /service/device HTTP/1.1" 200 None
+2018-07-10 17:10:04,038 INFO 127.0.0.1 - - [10/Jul/2018 17:10:04] "[37mPOST /jochebed HTTP/1.1[0m" 200 -
+2018-07-10 17:14:45,419 INFO  * Detected change in '/Users/apple/Desktop/Mahesh/Flask/AlexaHA1.0.py', reloading
+2018-07-10 17:15:40,664 INFO  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+2018-07-10 17:15:40,705 INFO  * Restarting with stat
+2018-07-10 17:15:41,322 WARNING  * Debugger is active!
+2018-07-10 17:15:41,442 INFO  * Debugger PIN: 218-214-140
+2018-07-10 17:16:30,882 INFO 127.0.0.1 - - [10/Jul/2018 17:16:30] "[37mPOST /jochebed HTTP/1.1[0m" 200 -
